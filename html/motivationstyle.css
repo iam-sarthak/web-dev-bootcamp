@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+img{
+    border: 5px solid yellow;
+    height: 800px;
+padding: auto;
+}
+.imgg{
+    margin: 10%;
+}
+h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+p{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
