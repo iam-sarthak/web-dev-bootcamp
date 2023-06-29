@@ -1,0 +1,23 @@
+.top{
+    height: 6rem;
+    width: 24rem;
+    background-color: orange;
+}
+.middle{
+    height: 6rem;
+    width: 24rem;
+    background-color: white;
+}
+.circle{
+position: absolute;
+    left: 9.5rem;
+    height: 6rem;
+    width: 6rem;
+    background-color: blue;
+    border-radius: 50%;
+}
+.bottom{
+    height: 6rem;
+    width: 24rem;
+    background-color: green;
+}
