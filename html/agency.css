@@ -1,0 +1,20 @@
+.logo{
+    font-style: italic;
+    font-size:50px;
+    color: rgb(199, 199, 62);
+
+}
+.moto{
+    font-size: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    height: 200px;
+}
+.first{
+    float: left;
+}
+.second{
+    float: left;
+}
